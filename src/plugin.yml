@@ -1,0 +1,8 @@
+name: Homes
+main: me.gabrideiros.home.Main
+version: 1.0
+author: Gabrideiros
+commands:
+  home:
+    aliases: [homes]
+  sethome:

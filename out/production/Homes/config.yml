@@ -1,0 +1,12 @@
+Connection:
+  Type: 'MySQL'
+  Host: 'localhost'
+  Port: 3306
+  Username: 'root'
+  Password: ''
+  Database: 'test'
+
+
+Homes:
+  - 'normal.5:5'
+  - 'vip.10:10'
